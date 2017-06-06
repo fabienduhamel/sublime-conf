@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"GitGutter",
+		"MarkdownEditing",
+		"MoveTab",
+		"Package Control",
+		"PHP Companion",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-lesshint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-jsxhint",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phplint",
+		"Symfony2 Snippets",
+		"Twig",
+		"Wrap Plus"
+	]
+}
